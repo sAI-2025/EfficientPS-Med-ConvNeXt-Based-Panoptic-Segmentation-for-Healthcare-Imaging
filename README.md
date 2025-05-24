@@ -56,8 +56,8 @@ ConvNeXt achieves transformer-level performance using pure convolutions, yieldin
 ## 🧪 Results & Visualizations
 
 <p align="center">
-  <img src="outputs/examples/liver_panoptic.png" width="400" alt="Liver Segmentation"/>
-  <img src="outputs/examples/kvasir_polyp.png" width="400" alt="Polyp Segmentation"/>
+  <img src="results/0_Screenshot from 2025-05-06 16-26-39.png" width="400" alt="Liver Segmentation"/>
+  <img src="results/01_Screenshot from 2025-05-06 16-26-01.png" width="400" alt="Polyp Segmentation"/>
 </p>
 
 **Example Metrics:**
