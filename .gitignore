@@ -1,1 +1,5 @@
 __pycache__/\ndata/\n*.pt\n*.npy\n*.h5\noutputs/
+EfficientPS/
+EfficientPS/
+EfficientPS/
+cityscapesScripts/
