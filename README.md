@@ -55,10 +55,25 @@ ConvNeXt achieves transformer-level performance using pure convolutions, yieldin
 
 ## 🧪 Results & Visualizations
 
+
+The following examples illustrate EfficientPS-Med's ability to perform high-quality panoptic segmentation on a variety of medical image modalities.
+
 <p align="center">
-  <img src="results/0_Screenshot from 2025-05-06 16-26-39.png" width="400" alt="Liver Segmentation"/>
-  <img src="results/01_Screenshot from 2025-05-06 16-26-01.png" width="400" alt="Polyp Segmentation"/>
+  <img src="results/13_result_51_0017_20_result_0046.jpg" alt="Result 1" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-23-35.png" alt="Result 2" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-24-20.png" alt="Result 3" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-24-37.png" alt="Result 4" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-24-48.png" alt="Result 5" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-25-04.png" alt="Result 6" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-25-17.png" alt="Result 7" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-25-43.png" alt="Result 8" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-25-52.png" alt="Result 9" width="600"/><br>
+  <img src="results/Screenshot from 2025-05-06 16-26-14.png" alt="Result 10" width="600"/><br>
+  <img src="results/01_Screenshot from 2025-05-06 16-26-01.png" alt="Result 11" width="600"/><br>
+  <img src="results/0_Screenshot from 2025-05-06 16-26-39.png" alt="Result 12" width="600"/>
 </p>
+
+These images demonstrate strong performance across a range of anatomical regions and clinical scenarios. EfficientPS-Med accurately segments organs, lesions, and surgical tools with high fidelity and minimal noise.
 
 **Example Metrics:**
 - Liver CT (LiTS):  
